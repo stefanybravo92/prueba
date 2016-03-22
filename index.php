@@ -32,7 +32,7 @@
 
   <tr class="text-azul">
   <td class="dvtCellLabel1" width="20%">Diagnostico</td>
-  <td class="dvtCellLabel1" width="20%">Tipo de Riesgo solo para cardiovascular</td>
+  <td class="dvtCellLabel1" width="20%">Tipoxzzzxzxz de Riesgo solo para cardiovascular</td>
   <td class="dvtCellLabel1" width="20%">Fecha Seguimiento 1</td>
   <td class="dvtCellLabel1" width="20%">Asistencia a control</td>
   <td class="dvtCellLabel1" width="20%">Motivo de inasistencia</td>
